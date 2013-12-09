@@ -20,3 +20,5 @@ Follow the instruction to install Oracle Express running in Linux VM.
 
 To know more about JDBC connection to Oracle see: http://www.orafaq.com/wiki/JDBC
 
+![alt tag]()
+
