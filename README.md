@@ -4,11 +4,11 @@ ch01
 changes:
 * add to <dependencies>
 
-    <dependency>
-			<groupId>commons-dbcp</groupId>
-			<artifactId>commons-dbcp</artifactId>
-			<version>1.4</version>
-		</dependency>
+        <dependency>
+		<groupId>commons-dbcp</groupId>
+		<artifactId>commons-dbcp</artifactId>
+		<version>1.4</version>
+	</dependency>
 		
 * download ojdbc6.jar for Oracle JDBC driver. Expand and save to local directory.
 * Right click on the propject and select "Build Path->Add Libraries->User Library". 
